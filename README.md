@@ -6,3 +6,5 @@ Happy Mini Open Platformの情報を掲載します．製作の説明は動画�
 ## 準備するもの
 道具：きり、カッターナイフ、糸鋸、鉛筆(ケガキ用)  
 図面：ケガキ図面No.1（移動台車との面）、ケガキ図面No.2（Lidarの搭載面）、ケガキ図面No.3（Lidar固定用）
+## 製作動画
+youtube:https://youtu.be/x1LPrXEvD94
